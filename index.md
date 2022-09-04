@@ -1,9 +1,3 @@
-<!-- ---
-# Original content in `index.html` to activate `layout: home`
-layout: home
-author_profile: true
---- -->
-
 ---
 permalink: /
 classes: wide
@@ -15,3 +9,10 @@ I was admitted to study for a M.Sc. degree without entrance examination at [Chin
 
 # Recently
 None
+
+
+<!-- ---
+# Original content in `index.html` to activate `layout: home`
+layout: home
+author_profile: true
+--- -->
