@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 classes: wide
 ---
@@ -8,4 +8,4 @@ I am a senior student of [School of Software Engineering](http://www2.scut.edu.c
 I was admitted to study for a M.Sc. degree without entrance examination at [Chinese Information Processing Center](http://www.icip.org.cn/), Institute of Software, Chinese Academy of Sciences. My research interests include Natural Language Understanding and Information Extraction.
 
 # Recently
-None
+None -->
