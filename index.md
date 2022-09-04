@@ -1,6 +1,6 @@
 ---
-layout: archive
 classes: wide
+title: false
 ---
 
 # About me
