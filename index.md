@@ -1,4 +1,5 @@
 ---
+layout: archive
 classes: wide
 ---
 
