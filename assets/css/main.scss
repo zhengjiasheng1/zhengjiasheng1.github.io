@@ -1,0 +1,28 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// The way of overriding the entire '_sass' folder to efficiently change global font size
+// More to see: https://github.com/mmistakes/minimal-mistakes/discussions/1352 
+
+html {
+    font-size: 14px; // change to whatever
+  
+    @include breakpoint($medium) {
+      font-size: 16px; // change to whatever
+    }
+  
+    @include breakpoint($large) {
+      font-size: 18px; // change to whatever
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 18px; // change to whatever
+    }
+  }
