@@ -1,16 +1,17 @@
 ---
-title: Some notes on computer network
+title: Some notes on "Computer Network"
 categories:
   - Note
 tags:
   - Computer Network
   - Baoyan
+show_date: true
 toc: true
 toc_label: On this page
 toc_icon: "file-alt"
 ---
 
-# computer_network
+# Notes
 
 ## 物理媒体
 
