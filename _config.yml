@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Jason Zheng"
-  avatar           : "/assets/images/selfie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Major in natural language processing."
   location         : "Beijing Haidian, China"
   email            :
